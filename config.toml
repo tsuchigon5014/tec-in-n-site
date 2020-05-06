@@ -1,5 +1,5 @@
-baseURL = "/"
-title = "Tecnology Informatin Network Coporation"
+baseURL = "https://tec-in-n.com"
+title = "Technology Information Network Coporation"
 
 enableRobotsTXT = true
 
@@ -53,7 +53,7 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.ja]
-title = "Tecnology Informatin Network Coporation"
+title = "Technology Information Network Coporation"
 description = "TINのWebサイトです"
 languageName ="日本語"
 weight = 1
