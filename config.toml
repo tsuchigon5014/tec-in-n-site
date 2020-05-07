@@ -146,7 +146,7 @@ enable = false
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
 	name = "Support/Request Mail"
-	url = "mailto:masaharu.shiotani@tec-in-n.com"
+	url = "mailto:support@tec-in-n.com"
 	icon = "fa fa-envelope"
         desc = "メールはこちらからお問い合わせください"
 # [[params.links.user]]
