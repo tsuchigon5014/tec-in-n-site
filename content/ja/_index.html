@@ -47,6 +47,30 @@ height="full" >}}
 {{< /blocks/section >}} {{< blocks/section >}}
 <div class="col-12">
   <h1 class="text-center">お問い合わせ</h1>
+
+  <form class="text-center" name="contact" method="POST" netlify>
+    <p>
+      <label>
+        お名前 <br />
+        <input type="text" name="name" />
+      </label>
+    </p>
+    <p>
+      <label>
+        Email <br />
+        <input type="email" name="email" />
+      </label>
+    </p>
+    <p>
+      <label>
+        内容 <br />
+        <textarea name="message" rows="5"></textarea>
+      </label>
+    </p>
+    <p>
+      <button type="submit">Send</button>
+    </p>
+  </form>
   <h5 class="text-center">E-mail:info [at] tec-in-n [dot] com</h5>
 </div>
 {{< /blocks/section >}}
