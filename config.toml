@@ -57,12 +57,6 @@ title = "Technology Information Network Coporation"
 description = "TINのWebサイトです"
 languageName ="日本語"
 weight = 1
-[languages.en]
-description = "This is TIN Website"
-languageName ="English"
-contentDir = "content/en"
-# Weight used for sorting.
-weight = 2
 
 [markup]
   [markup.goldmark]
